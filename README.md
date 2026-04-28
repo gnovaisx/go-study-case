@@ -12,11 +12,11 @@ Tracking my progress while learning Go (Golang).
 - [x] **Error handling** — Return and handle errors in the `greetings` module
 - [x] **Random greetings** — Return a random greeting from a predefined list
 - [x] **Greet multiple people** — Accept and greet a slice of names
+- [x] **Unit tests** — Write tests for the `greetings` package
 
 
 ### Up Next
 
-- [ ] **Unit tests** — Write tests for the `greetings` package
 - [ ] **Compile & install** — Build and install a Go binary
 
 ## Concepts Covered So Far
