@@ -9,11 +9,11 @@ Tracking my progress while learning Go (Golang).
 - [x] **Hello World** — Basic `main` package using an external module (`rsc.io/quote`) → `hello/`
 - [x] **Greetings module** — Created a reusable local module with a public `Hello` function → `greetings/`
 - [x] **Calling a local module** — Consumed the `greetings` module from another program → `hello-with-greetings/`
+- [x] **Error handling** — Return and handle errors in the `greetings` module
+- [x] **Random greetings** — Return a random greeting from a predefined list
 
 ### Up Next
 
-- [ ] **Error handling** — Return and handle errors in the `greetings` module
-- [ ] **Random greetings** — Return a random greeting from a predefined list
 - [ ] **Greet multiple people** — Accept and greet a slice of names
 - [ ] **Unit tests** — Write tests for the `greetings` package
 - [ ] **Compile & install** — Build and install a Go binary
