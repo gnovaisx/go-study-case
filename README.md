@@ -11,10 +11,11 @@ Tracking my progress while learning Go (Golang).
 - [x] **Calling a local module** — Consumed the `greetings` module from another program → `hello-with-greetings/`
 - [x] **Error handling** — Return and handle errors in the `greetings` module
 - [x] **Random greetings** — Return a random greeting from a predefined list
+- [x] **Greet multiple people** — Accept and greet a slice of names
+
 
 ### Up Next
 
-- [ ] **Greet multiple people** — Accept and greet a slice of names
 - [ ] **Unit tests** — Write tests for the `greetings` package
 - [ ] **Compile & install** — Build and install a Go binary
 
