@@ -13,11 +13,11 @@ Tracking my progress while learning Go (Golang).
 - [x] **Random greetings** — Return a random greeting from a predefined list
 - [x] **Greet multiple people** — Accept and greet a slice of names
 - [x] **Unit tests** — Write tests for the `greetings` package
+- [x] **Compile & install** — Build and install a Go binary
 
 
 ### Up Next
 
-- [ ] **Compile & install** — Build and install a Go binary
 
 ## Concepts Covered So Far
 
